@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FindAge</string>
+    <string name="buAge">Get Age</string>
+</resources>
